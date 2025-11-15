@@ -1,0 +1,10 @@
+0 calculator
+1 crayons
+2 Eraser
+3 Glue
+4 notebook
+5 pencil
+6 Ruler
+7 scissors
+8 sharpener
+9 Yellowpad
